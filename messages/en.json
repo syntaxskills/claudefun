@@ -1,0 +1,45 @@
+{
+  "Home": {
+    "syntaxSkills": "SyntaxSkills",
+    "navLabel": "ClaudeFun navigation",
+    "registryLabel": "config registry",
+    "domain": "claudefun.syntaxskills.com",
+    "heroTitle": "Fancy Claude configs, minus the boring defaults.",
+    "heroLede": "A small collection of useful, stylish, and lightly ridiculous Claude configuration ideas. Starting with status bars and spinner copy.",
+    "statusLabel": "Current collection status",
+    "packsLabel": "packs",
+    "toneLabel": "tone",
+    "toneValue": "fun / sharp",
+    "ruleLabel": "rule",
+    "ruleValue": "copyable",
+    "featuredLabel": "Featured configuration packs",
+    "copy": "Copy",
+    "copied": "Copied",
+    "packs": {
+      "statusbar": {
+        "name": "Good Statusbar",
+        "tag": "statusLine",
+        "summary": "A compact Claude Code status line that shows repo context without turning the terminal into a dashboard.",
+        "detail": "Project, git branch, and local time. Small enough to stay out of the way."
+      },
+      "spinner": {
+        "name": "Funny Spinner Verbs",
+        "tag": "microcopy",
+        "summary": "A small set of loading verbs for Claude-flavored tools that should feel playful without becoming childish.",
+        "detail": "Use as a source list for custom UI states, status messages, or local wrappers."
+      },
+      "corporateSpinner": {
+        "name": "Corporate Nonsense Spinner",
+        "tag": "zh-cn / microcopy",
+        "summary": "Chinese internet-business jargon for spinner verbs. Perfect for pretending the loading state is aligned with strategy.",
+        "detail": "Replace boring loading copy with high-density business abstraction."
+      }
+    },
+    "belongsKicker": "what belongs here",
+    "belongsTitle": "Configs should be useful, funny, or both.",
+    "criteria1": "Good terminal taste.",
+    "criteria2": "No noisy dashboards.",
+    "criteria3": "No fake productivity magic.",
+    "criteria4": "Easy to copy, edit, and steal responsibly."
+  }
+}

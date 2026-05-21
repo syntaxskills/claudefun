@@ -1,0 +1,45 @@
+{
+  "Home": {
+    "syntaxSkills": "SyntaxSkills",
+    "navLabel": "ClaudeFun 导航",
+    "registryLabel": "配置仓库",
+    "domain": "claudefun.syntaxskills.com",
+    "heroTitle": "好玩又好看的 Claude 配置，不要无聊默认值。",
+    "heroLede": "这里收集有用、有风格、还有一点离谱的 Claude 配置。先从 status bar 和 spinner 文案开始。",
+    "statusLabel": "当前收录状态",
+    "packsLabel": "配置包",
+    "toneLabel": "风格",
+    "toneValue": "好玩 / 利落",
+    "ruleLabel": "规则",
+    "ruleValue": "可以复制",
+    "featuredLabel": "精选配置包",
+    "copy": "复制",
+    "copied": "已复制",
+    "packs": {
+      "statusbar": {
+        "name": "好用 Statusbar",
+        "tag": "statusLine",
+        "summary": "一个紧凑的 Claude Code status line，可以显示 repo 上下文，但不会把终端变成仪表盘。",
+        "detail": "项目名、git 分支、本地时间。够用，而且不碍事。"
+      },
+      "spinner": {
+        "name": "Funny Spinner Verbs",
+        "tag": "microcopy",
+        "summary": "一组适合 Claude 工具的加载动词，轻松一点，但不幼稚。",
+        "detail": "可以作为自定义 UI 状态、状态消息或本地 wrapper 的文案源。"
+      },
+      "corporateSpinner": {
+        "name": "企业黑话 Spinner",
+        "tag": "zh-cn / microcopy",
+        "summary": "中文互联网黑话版 spinner verbs，让每一次加载都像在对齐战略。",
+        "detail": "用高密度业务抽象替换无聊 loading 文案。"
+      }
+    },
+    "belongsKicker": "收录标准",
+    "belongsTitle": "配置应该有用、好玩，或者两者都有。",
+    "criteria1": "终端品味要好。",
+    "criteria2": "不要吵闹仪表盘。",
+    "criteria3": "不要假装提升生产力。",
+    "criteria4": "容易复制、修改和负责任地偷走。"
+  }
+}

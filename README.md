@@ -1,6 +1,6 @@
 # ClaudeFun
 
-Fancy and fun Claude configuration packs by Syntax Skills.
+Fancy and fun Claude configuration packs by SyntaxSkills.
 
 Current packs:
 

@@ -57,6 +57,16 @@
   color: var(--accent);
 }
 
+.navMeta a {
+  color: var(--text);
+  transition: color 140ms ease;
+}
+
+.navMeta a:hover,
+.navMeta a:focus-visible {
+  color: var(--accent);
+}
+
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 320px;
