@@ -15,6 +15,11 @@ bun install
 bun run dev
 ```
 
+## Maintenance
+
+For isolating uncommitted i18n/default-localized routing work from another
+checkout, see [docs/maintenance/i18n-routing-packaging.md](docs/maintenance/i18n-routing-packaging.md).
+
 ## Build
 
 ```bash
